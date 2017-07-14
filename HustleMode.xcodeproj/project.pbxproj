@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B659F2281F1944B600CCDA29 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = B659F2271F1944B600CCDA29 /* hustle-on.wav */; };
 		B6CC5EE61F1919CC00CCDA29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6CC5EE51F1919CC00CCDA29 /* AppDelegate.swift */; };
 		B6CC5EE81F1919CC00CCDA29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6CC5EE71F1919CC00CCDA29 /* ViewController.swift */; };
 		B6CC5EEB1F1919CC00CCDA29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6CC5EE91F1919CC00CCDA29 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B659F2271F1944B600CCDA29 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "../../../Downloads/hustle-mode/hustle-mode/hustle-on.wav"; sourceTree = "<group>"; };
 		B6CC5EE21F1919CC00CCDA29 /* HustleMode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HustleMode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6CC5EE51F1919CC00CCDA29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B6CC5EE71F1919CC00CCDA29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		B6CC5EE41F1919CC00CCDA29 /* HustleMode */ = {
 			isa = PBXGroup;
 			children = (
+				B659F2271F1944B600CCDA29 /* hustle-on.wav */,
 				B6CC5EE51F1919CC00CCDA29 /* AppDelegate.swift */,
 				B6CC5EE71F1919CC00CCDA29 /* ViewController.swift */,
 				B6CC5EE91F1919CC00CCDA29 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B659F2281F1944B600CCDA29 /* hustle-on.wav in Resources */,
 				B6CC5EF01F1919CC00CCDA29 /* LaunchScreen.storyboard in Resources */,
 				B6CC5EED1F1919CC00CCDA29 /* Assets.xcassets in Resources */,
 				B6CC5EEB1F1919CC00CCDA29 /* Main.storyboard in Resources */,
@@ -312,6 +316,7 @@
 				B6CC5EF61F1919CC00CCDA29 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
